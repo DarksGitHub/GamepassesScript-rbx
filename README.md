@@ -1,0 +1,2 @@
+# GamepassesScript-rbx
+yes
